@@ -1,0 +1,28 @@
+.modal-header {
+    font-size: 100px !important;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 3px !important;
+}
+
+input {
+    margin-bottom: 13px !important;
+}
+
+.status-button {
+    text-align: left;
+}
+
+.status-item {
+    width: 100% !important;
+}
+
+.modal-header {
+    max-height: 70px;
+}
+
+.modal-title h5 {
+    font-size: 30px;
+}
